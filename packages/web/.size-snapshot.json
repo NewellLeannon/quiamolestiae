@@ -1,0 +1,45 @@
+{
+  "dist/lib/react-keycloak-web.js": {
+    "bundled": 2944,
+    "minified": 1825,
+    "gzipped": 710
+  },
+  "dist/es/react-keycloak-web.js": {
+    "bundled": 2642,
+    "minified": 1598,
+    "gzipped": 626,
+    "treeshaked": {
+      "rollup": {
+        "code": 378,
+        "import_statements": 371
+      },
+      "webpack": {
+        "code": 1606
+      }
+    }
+  },
+  "dist/es/react-keycloak-web.mjs": {
+    "bundled": 28825,
+    "minified": 15900,
+    "gzipped": 4772,
+    "treeshaked": {
+      "rollup": {
+        "code": 5756,
+        "import_statements": 38
+      },
+      "webpack": {
+        "code": 11114
+      }
+    }
+  },
+  "dist/umd/react-keycloak-web.js": {
+    "bundled": 55819,
+    "minified": 19115,
+    "gzipped": 6212
+  },
+  "dist/umd/react-keycloak-web.min.js": {
+    "bundled": 28388,
+    "minified": 11742,
+    "gzipped": 4122
+  }
+}
